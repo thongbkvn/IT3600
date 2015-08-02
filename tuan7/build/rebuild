@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ..
+javac -sourcepath src -d build src/*.java
+cd build
